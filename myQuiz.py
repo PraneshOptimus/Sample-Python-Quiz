@@ -2,6 +2,7 @@ import time as t
 
 name = str(input("Whats Your Name ? "))
 print("\nWelcome To The Quiz",name,"!!")
+
 score = 0
 def SM():
     global score
